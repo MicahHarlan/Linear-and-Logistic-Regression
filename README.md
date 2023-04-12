@@ -3,6 +3,17 @@
 
 This code contains data processing and analysis operations on two datasets: fighters.csv and tsunami.csv.
 
+
+Run on commandline with: python LinearandLog.py
+
+
+OUTPUT:
+Boxing: Linear Regression Test Score for Wins: 0.7615038582643181
+Boxing: Logistic Regression Test Score for predicting Country: 0.27828054298642535
+Tsunami: Linear Regression Test score for predicting Deaths: 0.09538154584755898
+Tsunami: Logistic Regression Test score for predicting Country: 0.02601156069364162
+
+
 # Libraries used
 
 pandas: for data manipulation and analysis
